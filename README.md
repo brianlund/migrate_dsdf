@@ -104,6 +104,4 @@ DRY RUN - showing first 5 entries that would be migrated:
 - Progress is made every 10 entries during execution
 - If you're migrating to the same account but different language, use the same token for both source and target
 
-## License
 
-MIT
